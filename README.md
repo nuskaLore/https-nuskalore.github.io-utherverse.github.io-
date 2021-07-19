@@ -1,2 +1,1 @@
-# utherverse.github.io
-nsk-page 
+# https://nuskalore.github.io/utherverse.github.io/
